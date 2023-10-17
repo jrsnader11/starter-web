@@ -1,9 +1,11 @@
-#Starter Web Project
+# Starter Web Project
 
-##Intoduction
+This a simple website project for showing how to use Git and Github together.
 
-##Purpose
+## Intoduction
 
-##Deployment
+## Purpose
 
-##How To Contribute
+## Deployment
+
+## How To Contribute
