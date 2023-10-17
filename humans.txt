@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joshua Snader    jrsnader@goodstech.com         @jrsnader
 
 # THANKS
 
